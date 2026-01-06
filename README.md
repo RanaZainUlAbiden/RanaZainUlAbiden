@@ -65,19 +65,6 @@ Here are some highlights from my work:
 
 ---
 
-## 📊 **GitHub Stats**
-<div align="center">
-  
-![Rana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanaZainUlAbiden&show_icons=true&theme=radical&hide_title=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaZainUlAbiden&layout=compact&theme=radical&langs_count=6&hide=html,css)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=RanaZainUlAbiden&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 📫 **Let's Connect!**
 I'm always open to discussing technology, entrepreneurship, or potential collaborations!
 
