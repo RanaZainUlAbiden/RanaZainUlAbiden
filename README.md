@@ -9,7 +9,7 @@
 ---
 
 ## 🏢 **About Me**
-I'm a **Computer Science student at UET Lahore** who's also building **DevInfantary** - a software solutions company focused on helping startups make better technical decisions. I believe most founders fail because of rushed software choices, not bad ideas.
+I'm a **Computer Science student at UET Lahore** who's also building **DevInfantary**  a software solutions company focused on helping startups make better technical decisions. I believe most founders fail because of rushed software choices, not bad ideas.
 
 **Quick facts:**
 - 🎓 **Currently:** CS Student @ UET Lahore (2024-2028)
