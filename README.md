@@ -1,22 +1,20 @@
-<!-- Header with dynamic greeting -->
-<h1 align="center">👋 Hi, I'm <strong>Rana Zain</strong></h1>
-<h3 align="center"><strong>Founder @ DevInfantary | .NET Developer | UET Lahore CS '26</strong></h3>
+# 👋 Hi, I'm Rana Zain
 
-<p align="center">
-  <em>💡 Building software that helps startups scale without costly tech decisions</em>
-</p>
+**Software & Web Developer | .NET, C#, SQL | CS Student @ UET Lahore**
+
+💡 *Passionate about building efficient, maintainable software solutions with the .NET ecosystem*
 
 ---
 
 ## 🏢 **About Me**
-I'm a **Computer Science student at UET Lahore** who's also building **DevInfantary**  a software solutions company focused on helping startups make better technical decisions. I believe most founders fail because of rushed software choices, not bad ideas.
+I'm a Computer Science student at UET Lahore with hands-on experience in software development and web content management. I specialize in the .NET ecosystem and have worked on real-world projects including healthcare systems, e-commerce platforms, and content management solutions.
 
 **Quick facts:**
 - 🎓 **Currently:** CS Student @ UET Lahore (2024-2028)
-- 🚀 **Building:** [DevInfantary](https://linkedin.com/company/devinfantary)
-- 💼 **Working:** .NET Developer & Web Content Specialist
-- 🎯 **Focus:** .NET Ecosystem, Scalable Architecture, Clean Code
-- 💬 **Call me:** **Zain** (much easier to remember!)
+- 💼 **Working:** Web Content Editor @ CivicPlus
+- 🔧 **Specialties:** .NET Framework, C#, ASP.NET, SQL Server
+- 🎯 **Focus:** Building scalable, testable, and user-friendly systems
+- 📍 **Location:** Lahore, Pakistan
 
 ---
 
@@ -43,35 +41,44 @@ I'm a **Computer Science student at UET Lahore** who's also building **DevInfant
 ---
 
 ## 🚀 **Featured Projects**
-Here are some highlights from my work:
 
 ### 🍽️ **[Restaurant Website Project](https://github.com/RanaZainUlAbiden/Restaurant-Website-Project)**
-> Led a 7-member team to develop a full-featured restaurant website with real-time booking system, responsive design, and admin dashboard.
+Led a 7-member team to develop a full-featured restaurant website with real-time booking system, responsive design, and admin dashboard.
 
 **Tech:** HTML, CSS, JavaScript, Responsive Design
 
 ### 🏫 **[Faculty Management System](https://github.com/RanaZainUlAbiden/Faculty-Management-System)**
-> Comprehensive academic management solution for educational institutions.
+Comprehensive academic management solution for educational institutions, built with ASP.NET and SQL Server.
 
-**Tech:** C#, ASP.NET, SQL Server
+**Tech:** C#, ASP.NET, SQL Server, WinForms
 
-### 🏥 **Healthcare Management System**
-> Built during my role at myEZcare - scalable patient management with HL7/EDI integrations.
+### 🏥 **Healthcare Web Application**
+Contributed to healthcare web application development during my role at myEZcare, focusing on debugging and performance optimization.
 
-**Tech:** C#, ASP.NET Core, AngularJS, SQL Server, HL7/EDI
+**Tech:** C#, ASP.NET Core, AngularJS, SQL Server
 
-### 📚 **[Academic Projects](https://github.com/RanaZainUlAbiden?tab=repositories)**
-> Various C++ and C# projects from UET coursework, showcasing programming fundamentals to advanced concepts.
+### 📚 **Academic Projects**
+Various C++ and C# projects from UET coursework, showcasing programming fundamentals to advanced software engineering concepts.
+
+---
+
+## 📊 **GitHub Stats**
+<div align="center">
+  
+![Rana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanaZainUlAbiden&show_icons=true&theme=default&hide_title=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaZainUlAbiden&layout=compact&theme=default&langs_count=6)
+
+</div>
 
 ---
 
 ## 📫 **Let's Connect!**
-I'm always open to discussing technology, entrepreneurship, or potential collaborations!
+Always open to discussing technology, collaboration opportunities, or software development best practices.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RanaZainUlAbiden)
-[![DevInfantary](https://img.shields.io/badge/DevInfantary-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/devinfantary)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zain41uet@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RanaZainUlAbiden)
 
@@ -80,15 +87,15 @@ I'm always open to discussing technology, entrepreneurship, or potential collabo
 ---
 
 ## 🎯 **Currently Learning & Exploring**
-- 🔹 **Azure Cloud Services** for scalable deployments
+- 🔹 **Azure Cloud Services** for cloud deployments
+- 🔹 **React** to complement my Angular skills  
 - 🔹 **Microservices Architecture** with .NET Core
-- 🔹 **React** to complement my Angular skills
-- 🔹 **DevOps Practices** for better CI/CD pipelines
+- 🔹 **Advanced SQL Server** optimization techniques
 
 ---
 
 <p align="center">
-  <i>💬 <strong>Pro tip:</strong> People who call me "Zain" get faster responses! 😄</i>
+  <i>Check out my repositories below for more projects and code samples!</i>
 </p>
 
 <p align="center">
