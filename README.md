@@ -10,7 +10,7 @@
 I'm a Computer Science Graduate at UET Lahore with hands-on experience in software development and web content management. I specialize in the .NET ecosystem and have worked on real-world projects including healthcare systems, e-commerce platforms, and content management solutions.
 
 **Quick facts:**
-- 💼 **Working:** Software Engineer @ CivicPlus
+- 💼 **Working:** Software Engineer @ DevInfantary
 - 🔧 **Specialties:** .NET Framework, C#, ASP.NET, SQL Server, Angular, Flutter, Kotlin, Dart,Python
 - 🎯 **Focus:** Building scalable, testable, and user-friendly systems
 
