@@ -1,20 +1,18 @@
 # 👋 Hi, I'm Rana Zain
 
-**Software & Web Developer | .NET, C#, SQL | CS Student @ UET Lahore**
+**Software & Web Developer | .NET, C#, SQL **
 
 💡 *Passionate about building efficient, maintainable software solutions with the .NET ecosystem*
 
 ---
 
 ## 🏢 **About Me**
-I'm a Computer Science student at UET Lahore with hands-on experience in software development and web content management. I specialize in the .NET ecosystem and have worked on real-world projects including healthcare systems, e-commerce platforms, and content management solutions.
+I'm a Computer Science Graduate at UET Lahore with hands-on experience in software development and web content management. I specialize in the .NET ecosystem and have worked on real-world projects including healthcare systems, e-commerce platforms, and content management solutions.
 
 **Quick facts:**
-- 🎓 **Currently:** CS Student @ UET Lahore (2024-2028)
-- 💼 **Working:** Web Content Editor @ CivicPlus
-- 🔧 **Specialties:** .NET Framework, C#, ASP.NET, SQL Server
+- 💼 **Working:** Software Engineer @ CivicPlus
+- 🔧 **Specialties:** .NET Framework, C#, ASP.NET, SQL Server, Angular, Flutter, Kotlin, Dart,Python
 - 🎯 **Focus:** Building scalable, testable, and user-friendly systems
-- 📍 **Location:** Lahore, Pakistan
 
 ---
 
@@ -57,8 +55,8 @@ Contributed to healthcare web application development during my role at myEZcare
 
 **Tech:** C#, ASP.NET Core, AngularJS, SQL Server
 
-### 📚 **Academic Projects**
-Various C++ and C# projects from UET coursework, showcasing programming fundamentals to advanced software engineering concepts.
+### 📚 **Projects**
+Various C++ and C# projects from UET , showcasing programming fundamentals to advanced software engineering concepts.
 
 ---
 
